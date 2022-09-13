@@ -1,13 +1,7 @@
 ###
 <!DOVTYPE html>
-<head>
-  <style>
-    img{
-      text-align : center;
-    }
-  </style>
-</head>
-<p id = "main">
+
+<p id = "main" font-family = "Helvetica">
   Nothing yet<br>
   Something next<br>
   Everthing last
