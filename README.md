@@ -6,13 +6,13 @@
   Something next<br>
   Everthing last
 </p>
-<h3 style = "text-align":"center">
-Interests
+<h3 color = "royalblue">
+  Interests
 </h3>
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-
-  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 </div>
 <!--
 **jm-kor-00/jm-kor-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
